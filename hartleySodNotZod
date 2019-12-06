@@ -131,7 +131,6 @@ public class SodNotZod
 				}
 				displayCustomerReport(userName, customerTotal);
 				purchaseCounter = RESET_VALUE;
-				customerTotal = RESET_VALUE;
 				menuSelection = validateMainMenu(input, userName);
 			}
 				
